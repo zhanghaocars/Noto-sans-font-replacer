@@ -1,0 +1,10 @@
+{
+   "extName": {
+      "description": "App name.",
+      "message": "思源黑体替换"
+   },
+   "despName": {
+      "description": "App description.",
+      "message": "替换中文字体为思源黑体"
+   }
+}

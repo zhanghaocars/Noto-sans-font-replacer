@@ -1,0 +1,10 @@
+{
+   "extName": {
+      "description": "App name.",
+      "message": "Noto sans font replacer"
+   },
+   "despName": {
+      "description": "App description.",
+      "message": "Replace chinese text font to noto sans regular font"
+   }
+}
